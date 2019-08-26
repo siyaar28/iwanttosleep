@@ -2,11 +2,15 @@
 #include "primeNumbers.h"
 #include "stuff.h"
 #include "oge.h"
+#include "combinatorics.h"
 
 using namespace std;
 
 int main()
 {
-	oge20();
+	for (int i = 0; i < 10; ++i)
+	{
+		cout << facR(i) << " ";
+	}
 	return 0;
 }

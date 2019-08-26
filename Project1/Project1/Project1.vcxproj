@@ -123,11 +123,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="amounts.cpp" />
     <ClCompile Include="firstSteps.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="max.cpp" />
+    <ClCompile Include="oge.cpp" />
     <ClCompile Include="primeNumbers.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="oge.h" />
     <ClInclude Include="primeNumbers.h" />
     <ClInclude Include="stuff.h" />
   </ItemGroup>

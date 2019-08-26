@@ -24,12 +24,24 @@
     <ClCompile Include="firstSteps.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="max.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="amounts.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="oge.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="primeNumbers.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="stuff.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="oge.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
